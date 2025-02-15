@@ -8,6 +8,10 @@ A function in Python is a block of code that performs a specific task. Functions
 
 funtions flow : get input from users -> process logic -> return values
 
+adv of functions : 
+
+Readabilty , Reusability , Easy Debugging
+
 **Example:**
 
 ```python
