@@ -23,3 +23,10 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+Tuple Packing and Unpacking
+You can pack multiple values into a tuple and unpack them into separate variables.
+
+coordinates = (3, 4)  # line 6 , 8 , 10
+x, y = coordinates  # line 16
