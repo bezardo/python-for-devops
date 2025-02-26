@@ -10,6 +10,9 @@ if matches:
 else:
     print("Nope")
 
+op : 
+
+Numbers found: ['123', '9876', '42']
 
 """
 re.search() or re.match() return a single match object, so .group() works.
