@@ -2,7 +2,7 @@ def update_server_config(file_path, key, value):
     # Read the existing content of the server configuration file
     # key = which parameter we wish to change
     # value = what value needed to be replaced
-    with open(file_path, 'r') as file:
+    with open(file_path, 'r') as file:  # file -> alias
         lines = file.readlines()
 
     # Update the configuration value for the specified key
